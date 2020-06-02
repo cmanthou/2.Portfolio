@@ -3,6 +3,9 @@
 PROJECT
 Draft of a Personal Portfolio webite with Bio on the landing page, and links to a page that displays projects I have made (currnetly placeholders) as well as a page with a contact form. 
 
+PHP File
+I am having trouble getting the PHP file to execute.  Clicking the SEND button on the contact page links to the mail.php file, but the code on that file will not run, it just goes to a page that lists the code.  I have been reading about PHP and I understand some browsers do not support it?  Does Chrome not support it ... that might be my problem.
+
 ERRORS - index.html
 There are two errors on the Index HTML file that appear in the W3 Validator when ran.  I could not find a solution to these two errors.  (They are listed below).
 
