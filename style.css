@@ -5,6 +5,11 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+/* Font Change */
+
+* {
+  font-family: 'Roboto Condensed', sans-serif;
+}
 
 /* Vertical Center Contact Info */
 #contact-info {
