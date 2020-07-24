@@ -1,4 +1,4 @@
-# week-2-hw
+# Portfolio
 
 PROJECT
 Draft of a Personal Portfolio webite with Bio on the landing page, and links to a page that displays projects I have made (currnetly placeholders) as well as a page with a contact form. 
